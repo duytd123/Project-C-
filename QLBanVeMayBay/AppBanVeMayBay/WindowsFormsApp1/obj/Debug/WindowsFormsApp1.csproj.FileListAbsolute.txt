@@ -1,0 +1,276 @@
+D:\tai lieu\Winform LT\bc cuoi ki\QLBanVeMayBay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\tai lieu\Winform LT\bc cuoi ki\QLBanVeMayBay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ChonKM.resources
+D:\tai lieu\Winform LT\bc cuoi ki\QLBanVeMayBay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ChuyenBay.resources
+D:\tai lieu\Winform LT\bc cuoi ki\QLBanVeMayBay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\tai lieu\Winform LT\bc cuoi ki\QLBanVeMayBay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormKM.resources
+D:\tai lieu\Winform LT\bc cuoi ki\QLBanVeMayBay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormNV.resources
+D:\tai lieu\Winform LT\bc cuoi ki\QLBanVeMayBay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+D:\tai lieu\Winform LT\bc cuoi ki\QLBanVeMayBay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MOMO.resources
+D:\tai lieu\Winform LT\bc cuoi ki\QLBanVeMayBay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ChonVe.resources
+D:\tai lieu\Winform LT\bc cuoi ki\QLBanVeMayBay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\tai lieu\Winform LT\bc cuoi ki\QLBanVeMayBay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.QLVe.resources
+D:\tai lieu\Winform LT\bc cuoi ki\QLBanVeMayBay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ThanhToan.resources
+D:\tai lieu\Winform LT\bc cuoi ki\QLBanVeMayBay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ThemLichBay.resources
+D:\tai lieu\Winform LT\bc cuoi ki\QLBanVeMayBay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ThongKeHoaDon.resources
+D:\tai lieu\Winform LT\bc cuoi ki\QLBanVeMayBay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TienMat.resources
+D:\tai lieu\Winform LT\bc cuoi ki\QLBanVeMayBay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Tim_HUY.resources
+D:\tai lieu\Winform LT\bc cuoi ki\QLBanVeMayBay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\tai lieu\Winform LT\bc cuoi ki\QLBanVeMayBay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\tai lieu\Winform LT\bc cuoi ki\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\tai lieu\Winform LT\bc cuoi ki\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\tai lieu\Winform LT\bc cuoi ki\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\tai lieu\Winform LT\bc cuoi ki\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\BouncyCastle.Cryptography.dll
+D:\tai lieu\Winform LT\bc cuoi ki\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+D:\tai lieu\Winform LT\bc cuoi ki\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+D:\tai lieu\Winform LT\bc cuoi ki\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\Enums.NET.dll
+D:\tai lieu\Winform LT\bc cuoi ki\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\ExtendedNumerics.BigDecimal.dll
+D:\tai lieu\Winform LT\bc cuoi ki\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\tai lieu\Winform LT\bc cuoi ki\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\MathNet.Numerics.dll
+D:\tai lieu\Winform LT\bc cuoi ki\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\tai lieu\Winform LT\bc cuoi ki\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\NPOI.Core.dll
+D:\tai lieu\Winform LT\bc cuoi ki\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\NPOI.OOXML.dll
+D:\tai lieu\Winform LT\bc cuoi ki\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\NPOI.OpenXml4Net.dll
+D:\tai lieu\Winform LT\bc cuoi ki\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\tai lieu\Winform LT\bc cuoi ki\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\SixLabors.Fonts.dll
+D:\tai lieu\Winform LT\bc cuoi ki\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\SixLabors.ImageSharp.dll
+D:\tai lieu\Winform LT\bc cuoi ki\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+D:\tai lieu\Winform LT\bc cuoi ki\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\System.Memory.dll
+D:\tai lieu\Winform LT\bc cuoi ki\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+D:\tai lieu\Winform LT\bc cuoi ki\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\tai lieu\Winform LT\bc cuoi ki\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\System.Security.AccessControl.dll
+D:\tai lieu\Winform LT\bc cuoi ki\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.Pkcs.dll
+D:\tai lieu\Winform LT\bc cuoi ki\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.Xml.dll
+D:\tai lieu\Winform LT\bc cuoi ki\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\System.Security.Principal.Windows.dll
+D:\tai lieu\Winform LT\bc cuoi ki\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\tai lieu\Winform LT\bc cuoi ki\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\System.ValueTuple.dll
+D:\tai lieu\Winform LT\bc cuoi ki\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\zxing.dll
+D:\tai lieu\Winform LT\bc cuoi ki\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\zxing.presentation.dll
+D:\tai lieu\Winform LT\bc cuoi ki\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\BouncyCastle.Cryptography.xml
+D:\tai lieu\Winform LT\bc cuoi ki\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+D:\tai lieu\Winform LT\bc cuoi ki\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+D:\tai lieu\Winform LT\bc cuoi ki\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\Enums.NET.pdb
+D:\tai lieu\Winform LT\bc cuoi ki\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\Enums.NET.xml
+D:\tai lieu\Winform LT\bc cuoi ki\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\ExtendedNumerics.BigDecimal.xml
+D:\tai lieu\Winform LT\bc cuoi ki\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\ICSharpCode.SharpZipLib.pdb
+D:\tai lieu\Winform LT\bc cuoi ki\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\ICSharpCode.SharpZipLib.xml
+D:\tai lieu\Winform LT\bc cuoi ki\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\MathNet.Numerics.xml
+D:\tai lieu\Winform LT\bc cuoi ki\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\tai lieu\Winform LT\bc cuoi ki\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\NPOI.Core.pdb
+D:\tai lieu\Winform LT\bc cuoi ki\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\NPOI.Core.xml
+D:\tai lieu\Winform LT\bc cuoi ki\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\NPOI.OOXML.pdb
+D:\tai lieu\Winform LT\bc cuoi ki\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\NPOI.OOXML.xml
+D:\tai lieu\Winform LT\bc cuoi ki\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\NPOI.OpenXml4Net.pdb
+D:\tai lieu\Winform LT\bc cuoi ki\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\NPOI.OpenXml4Net.xml
+D:\tai lieu\Winform LT\bc cuoi ki\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\NPOI.OpenXmlFormats.pdb
+D:\tai lieu\Winform LT\bc cuoi ki\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\NPOI.OpenXmlFormats.xml
+D:\tai lieu\Winform LT\bc cuoi ki\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\SixLabors.Fonts.xml
+D:\tai lieu\Winform LT\bc cuoi ki\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\SixLabors.ImageSharp.xml
+D:\tai lieu\Winform LT\bc cuoi ki\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+D:\tai lieu\Winform LT\bc cuoi ki\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\System.Memory.xml
+D:\tai lieu\Winform LT\bc cuoi ki\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+D:\tai lieu\Winform LT\bc cuoi ki\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\tai lieu\Winform LT\bc cuoi ki\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\System.Security.AccessControl.xml
+D:\tai lieu\Winform LT\bc cuoi ki\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\tai lieu\Winform LT\bc cuoi ki\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.Xml.xml
+D:\tai lieu\Winform LT\bc cuoi ki\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\System.Security.Principal.Windows.xml
+D:\tai lieu\Winform LT\bc cuoi ki\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\tai lieu\Winform LT\bc cuoi ki\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\System.ValueTuple.xml
+D:\tai lieu\Winform LT\bc cuoi ki\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\zxing.xml
+D:\tai lieu\Winform LT\bc cuoi ki\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\zxing.presentation.xml
+D:\tai lieu\Winform LT\bc cuoi ki\QLBanVeMayBay\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+D:\tai lieu\Winform LT\bc cuoi ki\QLBanVeMayBay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\tai lieu\Winform LT\bc cuoi ki\QLBanVeMayBay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\badao\Downloads\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\badao\Downloads\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\badao\Downloads\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\badao\Downloads\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\badao\Downloads\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+C:\Users\badao\Downloads\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\badao\Downloads\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\Enums.NET.dll
+C:\Users\badao\Downloads\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\ExtendedNumerics.BigDecimal.dll
+C:\Users\badao\Downloads\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\badao\Downloads\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\MathNet.Numerics.dll
+C:\Users\badao\Downloads\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\badao\Downloads\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\NPOI.Core.dll
+C:\Users\badao\Downloads\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\NPOI.OOXML.dll
+C:\Users\badao\Downloads\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\badao\Downloads\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\badao\Downloads\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\SixLabors.Fonts.dll
+C:\Users\badao\Downloads\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\SixLabors.ImageSharp.dll
+C:\Users\badao\Downloads\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+C:\Users\badao\Downloads\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\System.Memory.dll
+C:\Users\badao\Downloads\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\badao\Downloads\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\badao\Downloads\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\System.Security.AccessControl.dll
+C:\Users\badao\Downloads\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\Users\badao\Downloads\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.Xml.dll
+C:\Users\badao\Downloads\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\badao\Downloads\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\badao\Downloads\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\System.ValueTuple.dll
+C:\Users\badao\Downloads\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\zxing.dll
+C:\Users\badao\Downloads\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\zxing.presentation.dll
+C:\Users\badao\Downloads\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\badao\Downloads\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+C:\Users\badao\Downloads\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\badao\Downloads\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\Enums.NET.pdb
+C:\Users\badao\Downloads\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\Enums.NET.xml
+C:\Users\badao\Downloads\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\ExtendedNumerics.BigDecimal.xml
+C:\Users\badao\Downloads\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\badao\Downloads\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\badao\Downloads\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\MathNet.Numerics.xml
+C:\Users\badao\Downloads\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\badao\Downloads\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\NPOI.Core.pdb
+C:\Users\badao\Downloads\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\NPOI.Core.xml
+C:\Users\badao\Downloads\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\NPOI.OOXML.pdb
+C:\Users\badao\Downloads\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\NPOI.OOXML.xml
+C:\Users\badao\Downloads\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\NPOI.OpenXml4Net.pdb
+C:\Users\badao\Downloads\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\NPOI.OpenXml4Net.xml
+C:\Users\badao\Downloads\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\NPOI.OpenXmlFormats.pdb
+C:\Users\badao\Downloads\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\NPOI.OpenXmlFormats.xml
+C:\Users\badao\Downloads\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\SixLabors.Fonts.xml
+C:\Users\badao\Downloads\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\SixLabors.ImageSharp.xml
+C:\Users\badao\Downloads\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+C:\Users\badao\Downloads\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\System.Memory.xml
+C:\Users\badao\Downloads\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\badao\Downloads\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\badao\Downloads\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\System.Security.AccessControl.xml
+C:\Users\badao\Downloads\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\badao\Downloads\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\badao\Downloads\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\badao\Downloads\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\badao\Downloads\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\System.ValueTuple.xml
+C:\Users\badao\Downloads\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\zxing.xml
+C:\Users\badao\Downloads\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\zxing.presentation.xml
+C:\Users\badao\Downloads\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\badao\Downloads\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ChonKM.resources
+C:\Users\badao\Downloads\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ChuyenBay.resources
+C:\Users\badao\Downloads\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\badao\Downloads\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormKM.resources
+C:\Users\badao\Downloads\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormNV.resources
+C:\Users\badao\Downloads\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+C:\Users\badao\Downloads\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MOMO.resources
+C:\Users\badao\Downloads\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ChonVe.resources
+C:\Users\badao\Downloads\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\badao\Downloads\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.QLVe.resources
+C:\Users\badao\Downloads\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ThanhToan.resources
+C:\Users\badao\Downloads\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ThemLichBay.resources
+C:\Users\badao\Downloads\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ThongKeHoaDon.resources
+C:\Users\badao\Downloads\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TienMat.resources
+C:\Users\badao\Downloads\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Tim_HUY.resources
+C:\Users\badao\Downloads\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\badao\Downloads\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\badao\Downloads\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+C:\Users\badao\Downloads\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\badao\Downloads\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\badao\Downloads\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\badao\Downloads\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\cs\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\badao\Downloads\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\de\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\badao\Downloads\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\es\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\badao\Downloads\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\fr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\badao\Downloads\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\it\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\badao\Downloads\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\ja\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\badao\Downloads\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\ko\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\badao\Downloads\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\pl\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\badao\Downloads\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\pt-BR\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\badao\Downloads\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\ru\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\badao\Downloads\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\tr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\badao\Downloads\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\badao\Downloads\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\zh-Hant\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\badao\Downloads\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojFakesResolveAssemblyReference.cache
+E:\Projects\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\Projects\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\Projects\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\Projects\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\BouncyCastle.Cryptography.dll
+E:\Projects\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\EntityFramework.dll
+E:\Projects\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.dll
+E:\Projects\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\Enums.NET.dll
+E:\Projects\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\ExtendedNumerics.BigDecimal.dll
+E:\Projects\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\Projects\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\MathNet.Numerics.dll
+E:\Projects\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+E:\Projects\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+E:\Projects\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\NPOI.Core.dll
+E:\Projects\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\NPOI.OOXML.dll
+E:\Projects\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\NPOI.OpenXml4Net.dll
+E:\Projects\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\Projects\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\SixLabors.Fonts.dll
+E:\Projects\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\SixLabors.ImageSharp.dll
+E:\Projects\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+E:\Projects\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\System.Memory.dll
+E:\Projects\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+E:\Projects\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Projects\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\System.Security.AccessControl.dll
+E:\Projects\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.Pkcs.dll
+E:\Projects\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.Xml.dll
+E:\Projects\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\System.Security.Principal.Windows.dll
+E:\Projects\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\System.Text.Encoding.CodePages.dll
+E:\Projects\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\System.ValueTuple.dll
+E:\Projects\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\zxing.dll
+E:\Projects\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\zxing.presentation.dll
+E:\Projects\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\BouncyCastle.Cryptography.xml
+E:\Projects\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\EntityFramework.xml
+E:\Projects\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\EntityFramework.SqlServer.xml
+E:\Projects\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\Enums.NET.pdb
+E:\Projects\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\Enums.NET.xml
+E:\Projects\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\ExtendedNumerics.BigDecimal.xml
+E:\Projects\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\ICSharpCode.SharpZipLib.pdb
+E:\Projects\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\ICSharpCode.SharpZipLib.xml
+E:\Projects\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\MathNet.Numerics.xml
+E:\Projects\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+E:\Projects\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\NPOI.Core.pdb
+E:\Projects\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\NPOI.Core.xml
+E:\Projects\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\NPOI.OOXML.pdb
+E:\Projects\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\NPOI.OOXML.xml
+E:\Projects\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\NPOI.OpenXml4Net.pdb
+E:\Projects\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\NPOI.OpenXml4Net.xml
+E:\Projects\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\NPOI.OpenXmlFormats.pdb
+E:\Projects\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\NPOI.OpenXmlFormats.xml
+E:\Projects\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\SixLabors.Fonts.xml
+E:\Projects\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\SixLabors.ImageSharp.xml
+E:\Projects\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+E:\Projects\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\System.Memory.xml
+E:\Projects\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+E:\Projects\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Projects\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\System.Security.AccessControl.xml
+E:\Projects\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.Pkcs.xml
+E:\Projects\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\System.Security.Cryptography.Xml.xml
+E:\Projects\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\System.Security.Principal.Windows.xml
+E:\Projects\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\System.Text.Encoding.CodePages.xml
+E:\Projects\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\System.ValueTuple.xml
+E:\Projects\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\zxing.xml
+E:\Projects\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\zxing.presentation.xml
+E:\Projects\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\cs\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\Projects\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\de\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\Projects\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\es\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\Projects\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\fr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\Projects\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\it\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\Projects\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\ja\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\Projects\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\ko\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\Projects\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\pl\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\Projects\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\pt-BR\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\Projects\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\ru\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\Projects\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\tr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\Projects\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\Projects\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\zh-Hant\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\Projects\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\Projects\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ChonKM.resources
+E:\Projects\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ChuyenBay.resources
+E:\Projects\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\Projects\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormKM.resources
+E:\Projects\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormNV.resources
+E:\Projects\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+E:\Projects\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MOMO.resources
+E:\Projects\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ChonVe.resources
+E:\Projects\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\Projects\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.QLVe.resources
+E:\Projects\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ThanhToan.resources
+E:\Projects\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ThemLichBay.resources
+E:\Projects\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ThongKeHoaDon.resources
+E:\Projects\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TienMat.resources
+E:\Projects\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Tim_HUY.resources
+E:\Projects\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\Projects\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\Projects\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+E:\Projects\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\Projects\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\Projects\QLBanVeMayBay\QLBanVeMayBay\WindowsFormsApp1\bin\Debug\appsettings.json
